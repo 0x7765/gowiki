@@ -10,6 +10,7 @@
 - [逃逸分析](./notes/逃逸分析.md)
 - [闭包](./notes/闭包.md)
 - [zap日志归档和多输出源](./notes/zap基本使用.md)
+- [makefile&构建docker镜像](./notes/Makefile&docker.md)
 
 ## 虚拟内存
 - [linux分配虚拟内存](./notes/linux分配虚拟内存.md)
