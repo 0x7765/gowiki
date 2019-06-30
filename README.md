@@ -12,6 +12,11 @@
 - [zap日志归档和多输出源](./notes/zap基本使用.md)
 - [makefile&构建docker镜像](./notes/Makefile&docker.md)
 
+## golang汇编
+
+- [golang汇编入门](golang汇编入门.md)
+
+
 ## 虚拟内存
 - [linux分配虚拟内存](./notes/linux分配虚拟内存.md)
 
