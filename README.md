@@ -14,7 +14,7 @@
 
 ## golang汇编
 
-- [golang汇编入门](golang汇编入门.md)
+- [golang汇编入门](./notes/golang汇编入门.md)
 
 
 ## 虚拟内存
