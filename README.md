@@ -11,6 +11,7 @@
 - [闭包](./notes/闭包.md)
 - [zap日志归档和多输出源](./notes/zap基本使用.md)
 - [makefile&构建docker镜像](./notes/Makefile&docker.md)
+- [线程模型](./notes/线程模型.md)
 
 ## golang汇编
 
