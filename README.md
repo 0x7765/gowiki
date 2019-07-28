@@ -12,6 +12,10 @@
 - [zap日志归档和多输出源](./notes/zap基本使用.md)
 - [makefile&构建docker镜像](./notes/Makefile&docker.md)
 - [线程模型](./notes/线程模型.md)
+- [defer](./notes/defer.md)
+- [函数说明](./notes/函数说明.md)
+- [条件编译](./notes/条件编译.md)
+- [并发机制](./notes/并发机制-GMP模型.md)
 
 ## golang汇编
 
