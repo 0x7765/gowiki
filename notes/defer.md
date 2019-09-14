@@ -151,7 +151,7 @@ func BenchmarkTestWithDefer(b *testing.B) {
 // go test -bench=. -benchtime=5s -benchmem -run=none
 ```
 
-![1564326734978](..\pics\1564326734978.png)
+![](../pics/1564326734978.png)
 
 ## 原理
 
