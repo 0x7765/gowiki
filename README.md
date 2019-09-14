@@ -16,6 +16,7 @@
 - [函数说明](./notes/函数说明.md)
 - [条件编译](./notes/条件编译.md)
 - [并发机制](./notes/并发机制-GMP模型.md)
+- [string与byte数组转换](./notes/string和byte数组的转换.md)
 
 ## golang汇编
 
