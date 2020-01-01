@@ -28,3 +28,6 @@
 
 ## ngrok
 - [ngrok](./notes/ngrok.md)
+
+## jni
+- [jni基本操作](./notes/jni基本操作.md)
