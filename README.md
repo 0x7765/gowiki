@@ -30,4 +30,10 @@
 - [ngrok](./notes/ngrok.md)
 
 ## jni
+
 - [jni基本操作](./notes/jni基本操作.md)
+
+## python
+
+- [python多进程基本使用](./notes/process_note.md)
+
