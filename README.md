@@ -18,6 +18,7 @@
 - [并发机制](./notes/并发机制-GMP模型.md)
 - [string与byte数组转换](./notes/string和byte数组的转换.md)
 - [plugin基本使用](./notes/plugin.md)
+- [golang实现后台运行](./notes/daemon.md)
 
 ## golang汇编
 
