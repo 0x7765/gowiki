@@ -1,4 +1,4 @@
-# [日常笔记](https://veixuan.github.io/note/notes)
+# [日常笔记](https://veixuan.github.io/note/)
 
 ## GoLang
 
