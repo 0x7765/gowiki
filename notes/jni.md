@@ -63,7 +63,7 @@ JNIEXPORT jstring JNICALL Java_com_wx_jni_HelloJNI_Greeting
 ```
 
 1.  `java` 函数到 `JNI`的映射规则是`Java_{package_name}_{class_name}_{method_name}(arguments)`
-2.  `JNIEnv` 只想`JNI`环境，包含大量的api
+2.  `JNIEnv` 指向`JNI`环境，包含大量的api
 3.  `jobject` `this`指针, 指向 `this`的`java` 对象
 
 ### 实现
